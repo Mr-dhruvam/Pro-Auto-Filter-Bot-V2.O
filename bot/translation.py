@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """👋Hey {},
+    START_TEXT = """👋Heyy {},
 
 I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...\n\n{}"""
 
